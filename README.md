@@ -31,7 +31,7 @@ The open governance of a project requires open ownership of the projects assets 
 
 ### Projects
 
-Many open source projects out there don't have open governance and there are multiple ways to specify governance. Here are some good examples from you to learn from:
+Many open source projects out there don't have open governance, some do and for those operating under open governance, there are multiple ways to specify governance. Here are some good governance examples that you can learn from:
 
 * https://github.com/containerd/project/blob/master/GOVERNANCE.md
 * https://github.com/coredns/coredns/blob/master/GOVERNANCE.md
